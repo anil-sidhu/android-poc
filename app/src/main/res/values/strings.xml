@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_api_call">ApiCall</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_check_box">CheckBox</string>
+    <string name="title_activity_check_box_screen">CheckBoxScreen</string>
+</resources>
